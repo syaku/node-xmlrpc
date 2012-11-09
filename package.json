@@ -19,6 +19,8 @@
 , "dependencies" : {
     "sax"   : "0.4.x"
   , "xmlbuilder" : "0.3.1"
+  , "sechash" : "*"
+  , "underscore" : "*"
   }
 , "devDependencies" : {
     "vows" : "0.6.x"
